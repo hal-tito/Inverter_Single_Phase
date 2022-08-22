@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/Inverter_SP.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>860</used>
+      <free>7332</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>65274</length>
+      <used>4599</used>
+      <free>60675</free>
+    </memory>
+  </executable>
+</project>
